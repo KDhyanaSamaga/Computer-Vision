@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-public class ImageFiltering4 {
+public class Pseudocolor_Image_Processing  {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
