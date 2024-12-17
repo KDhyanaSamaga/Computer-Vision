@@ -1,10 +1,3 @@
-# Computer-Vision
-This repository features three assignments and a detailed report on computer vision: pseudocolor image processing (Java), image enhancement and restoration techniques (Python), and segmentation, morphological, and color image processing (Python). A comprehensive guide to key computer vision concepts!
-
-Here’s the updated and more detailed README file for your GitHub repository:  
-
----
-
 # Computer Vision Projects  
 
 This repository contains assignments and a detailed report showcasing various image processing techniques implemented using **Java** and **Python**. These projects aim to explore and apply essential concepts of computer vision, from basic image manipulation to advanced techniques like segmentation and morphological processing.  
