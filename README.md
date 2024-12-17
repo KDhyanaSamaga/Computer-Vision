@@ -91,10 +91,4 @@ These projects serve as practical examples for understanding foundational comput
 
 ---
 
-## License  
 
-This project is licensed under the [MIT License](LICENSE).  
-
----  
-
-Let me know if you'd like more details or additional sections!
